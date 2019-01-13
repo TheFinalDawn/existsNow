@@ -6,7 +6,9 @@ th, td, tr {
 b {
   font-weight: bolder;
 }
-body {
-  font-family: Arial;
-  background-image: url('https://www.publicdomainpictures.net/pictures/100000/nahled/geometric-pattern-3d-blocks.jpg');
+body, html {
+  font-family: Verdana;
+  background-image: url('background2.jpg');
+  height: 100%;
+
 }
